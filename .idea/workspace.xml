@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac0be8cf-279e-4d5b-8095-5e15680098aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZJ5eawJlQomf8CYXU08JsgdVYO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.webscrape">
+    <configuration name="webalt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="webscraped database" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webalt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="webscrape" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="webscraped database" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webscrape.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.webscrape" />
+        <item itemvalue="Python.webalt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac0be8cf-279e-4d5b-8095-5e15680098aa" name="Default Changelist" comment="" />
+      <created>1584544452700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584544452700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="281" key="FileChooserDialogImpl" timestamp="1584714511129">
+      <screen x="72" y="0" width="1848" height="1080" />
+    </state>
+    <state x="776" y="281" key="FileChooserDialogImpl/72.0.1848.1080@72.0.1848.1080" timestamp="1584714511129" />
+    <state width="913" height="248" key="GridCell.Tab.0.bottom" timestamp="1584977494183">
+      <screen x="72" y="0" width="1848" height="1080" />
+    </state>
+    <state width="913" height="248" key="GridCell.Tab.0.bottom/72.0.1848.1080@72.0.1848.1080" timestamp="1584977494183" />
+    <state width="913" height="248" key="GridCell.Tab.0.center" timestamp="1584977494181">
+      <screen x="72" y="0" width="1848" height="1080" />
+    </state>
+    <state width="913" height="248" key="GridCell.Tab.0.center/72.0.1848.1080@72.0.1848.1080" timestamp="1584977494181" />
+    <state width="913" height="248" key="GridCell.Tab.0.left" timestamp="1584977494181">
+      <screen x="72" y="0" width="1848" height="1080" />
+    </state>
+    <state width="913" height="248" key="GridCell.Tab.0.left/72.0.1848.1080@72.0.1848.1080" timestamp="1584977494181" />
+    <state width="913" height="248" key="GridCell.Tab.0.right" timestamp="1584977494182">
+      <screen x="72" y="0" width="1848" height="1080" />
+    </state>
+    <state width="913" height="248" key="GridCell.Tab.0.right/72.0.1848.1080@72.0.1848.1080" timestamp="1584977494182" />
+    <state x="497" y="182" key="SettingsEditor" timestamp="1584715482561">
+      <screen x="72" y="0" width="1848" height="1080" />
+    </state>
+    <state x="497" y="182" key="SettingsEditor/72.0.1848.1080@72.0.1848.1080" timestamp="1584715482561" />
+    <state x="692" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1585150832304">
+      <screen x="72" y="0" width="1848" height="1080" />
+    </state>
+    <state x="692" y="364" key="com.intellij.ide.util.TipDialog/72.0.1848.1080@72.0.1848.1080" timestamp="1585150832304" />
+  </component>
+</project>
